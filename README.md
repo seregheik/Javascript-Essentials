@@ -16,6 +16,7 @@ There was a need for just one standard
 The European Computer Manufacturers Association then set a standard hence the name ECMAScript
 Javascript comes with a JIT compiler 
 JIT mean just in time
+Javascript is a loosely typed language meaning it change datatype
 
 # API
 API stands for application programming interface
@@ -36,3 +37,11 @@ there are two types rather states of booleans - true or false
 "null" and "undefined" are primitive data
 "NaN" is a primitive data
 NaN means Not a number.
+
+# Operators
+Programming Languages will not exist without operators
+An operator is a predefined function in a compiler
+An operator is a subroutine i.e its predefined
+Operators are executed in memory and ran directly by compilers
+There are precedence to operators
+Precedence for operators in javascript can be checked at MDN
