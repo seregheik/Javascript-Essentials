@@ -24,3 +24,18 @@ function makeCoffee( sugar, milk) {
 }
 
 console.log( makeCoffee( 2, 20 ) );
+
+var car = {
+    color: "red",
+    speed: 200,
+    drive: function () {return "drive"}
+}
+
+var shoppingList = [
+    "apple",
+    "banana",
+    "orange",
+    "mango",
+    "kiwi",
+    "pineapple"	
+];

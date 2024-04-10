@@ -46,3 +46,17 @@ Operators are executed in memory and ran directly by compilers
 There are precedence to operators
 Precedence for operators in javascript can be checked at MDN
 Javascript operators polymorphs i.e they change to adapt to situations and even convert data types
+
+# Objects and Arrays
+Objects have defining properties and are obvious
+Arrays are list objects
+Arrays are still objects, just that they are types of objects
+
+Objects usally start with curly braces and they have key and properties
+Adding a function in an object is called a method
+
+Arrays is just a list that has an element of objects 
+Each element is assigned a number
+The numbers are automatically assigned
+the number is the key and the elements are just elements
+l
