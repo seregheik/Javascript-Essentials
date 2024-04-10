@@ -23,3 +23,16 @@ Api is just a collection of functions and properties
 Api can be inside another API and this sub API is called Embedded API or Extended API or Extension Api
 When 
 When you create a new object, you have created an API
+
+# Primitive Data
+Primitive Data means basic data
+"String" is an example of a primitive data
+backticks (\) can be used to escape special characters
+"Numbers" is an example of a primitive data
+there are two types of numbers
+whole integers and floating point numbers
+"Boolean" is an example of a primitive data
+there are two types rather states of booleans - true or false
+"null" and "undefined" are primitive data
+"NaN" is a primitive data
+NaN means Not a number.
