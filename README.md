@@ -45,3 +45,4 @@ An operator is a subroutine i.e its predefined
 Operators are executed in memory and ran directly by compilers
 There are precedence to operators
 Precedence for operators in javascript can be checked at MDN
+Javascript operators polymorphs i.e they change to adapt to situations and even convert data types
