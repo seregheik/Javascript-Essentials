@@ -21,5 +21,10 @@ var array = [
     function(){ return "dive"; }
 ];
 
-console.log(car['make'])
-console.log(car['engine']['pistons'][0]['maker'])
+car.model = 'osasere'
+
+console.log(car);
+delete car.model
+console.log(car)
+// console.log(car['make'])
+// console.log(car['engine']['pistons'][0]['maker'])
