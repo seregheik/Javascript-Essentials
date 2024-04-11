@@ -59,4 +59,8 @@ Arrays is just a list that has an element of objects
 Each element is assigned a number
 The numbers are automatically assigned
 the number is the key and the elements are just elements
-l
+
+# Finctions
+Functions are callable objects in javascript
+they are objects that contain a lost of instructions that are to be executed when they are invoked.
+Objects can be contained inside objects so callable objects can be conatained inside objects
