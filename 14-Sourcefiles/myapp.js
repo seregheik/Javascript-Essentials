@@ -20,3 +20,6 @@ var array = [
     { car: "ford" },
     function(){ return "dive"; }
 ];
+
+console.log(car['make'])
+console.log(car['engine']['pistons'][0]['maker'])
