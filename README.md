@@ -60,7 +60,11 @@ Each element is assigned a number
 The numbers are automatically assigned
 the number is the key and the elements are just elements
 
-# Finctions
+# Functions
 Functions are callable objects in javascript
 they are objects that contain a lost of instructions that are to be executed when they are invoked.
 Objects can be contained inside objects so callable objects can be conatained inside objects
+
+# Memory Hoisting
+
+The JIT compiler first goes through the code line by line

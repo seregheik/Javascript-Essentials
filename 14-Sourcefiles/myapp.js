@@ -29,8 +29,15 @@
 // console.log(car['make'])
 // console.log(car['engine']['pistons'][0]['maker'])
 
-function name(fullname) {
-    return fullname();
-}
+// function name(fullname) {
+//     return fullname();
+// }
 
-console.log(name (function(){return "osasere"}));
+// console.log(name (function(){return "osasere"}));
+
+console.log();
+
+var myName = "Osasere";
+function printName() {
+    return "Catfishtrtryu99999999999999999999999999909999999999999999999999999999999999999908`0888900000000000000000000000000000000.";
+};
