@@ -35,9 +35,19 @@
 
 // console.log(name (function(){return "osasere"}));
 
-console.log();
+console.log(myName, printName());
 
 var myName = "Osasere";
 function printName() {
-    return "Catfishtrtryu99999999999999999999999999909999999999999999999999999999999999999908`0888900000000000000000000000000000000.";
+
+    console.log(ram, type());
+
+    var ram = 'new ram';
+
+    function type () {
+        return "second hoist";
+    };
+
+    return "Catfish";
 };
+
