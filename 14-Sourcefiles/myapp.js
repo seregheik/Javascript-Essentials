@@ -35,19 +35,19 @@
 
 // console.log(name (function(){return "osasere"}));
 
-console.log(myName, printName());
+// console.log(myName, printName());
 
-var myName = "Osasere";
-function printName() {
+// var myName = "Osasere";
+// function printName() {
 
-    console.log(ram, type());
+//     console.log(ram, type());
 
-    var ram = 'new ram';
+//     var ram = 'new ram';
 
-    function type () {
-        return "second hoist";
-    };
+//     function type () {
+//         return "second hoist";
+//     };
 
-    return "Catfish";
-};
+//     return "Catfish";
+// };
 
