@@ -51,3 +51,26 @@
 //     return "Catfish";
 // };
 
+
+// var engine = {
+//     maker : "Ford",
+//     headGasket : {
+//         pots: [
+//             "Piston 1",
+//             "Piston 2",
+//             "Piston 3",
+//         ]
+//     }
+// };
+
+
+// function runExpression (){
+
+//     var a = 10;
+
+//     function add() {
+//         return a + 90;
+//     };
+//     return add();
+// };
+

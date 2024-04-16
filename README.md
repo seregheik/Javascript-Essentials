@@ -68,3 +68,8 @@ Objects can be contained inside objects so callable objects can be conatained in
 # Memory Hoisting
 
 The JIT compiler first goes through the code line by line
+
+# This usage 
+
+in javascript  this by default points to the window object
+this also steps out one into the outerscope when used with a callable object aka function
