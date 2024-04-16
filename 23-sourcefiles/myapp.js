@@ -50,9 +50,13 @@
 //     return this;
 // }
 
-function Apple (width, height, color, score) {
+function Apple (width, height ) {
   this.width = width;
   this.height = height;
-  this.color = color;
-  this.score = score;
+ 
+}
+
+Apple.prototype =  {
+  color : function () {return "red"},
+  score : function () {return `this is my score`},
 }
