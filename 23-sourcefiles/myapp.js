@@ -32,20 +32,27 @@
 // new object.embed.method( object );
 // new array[1]();
 
-var object = {
-  prop: 'hi',
-  method: function () {
-    return this;
-  },
-};
+// var object = {
+//   prop: 'hi',
+//   method: function () {
+//     return this;
+//   },
+// };
 
-var array = [
-  this,
-  function () {
-    return this;
-  },
-];
+// var array = [
+//   this,
+//   function () {
+//     return this;
+//   },
+// ];
 
-function global(){
-    return this;
+// function global(){
+//     return this;
+// }
+
+function Apple (width, height, color, score) {
+  this.width = width;
+  this.height = height;
+  this.color = color;
+  this.score = score;
 }
