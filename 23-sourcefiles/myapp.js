@@ -50,13 +50,23 @@
 //     return this;
 // }
 
-function Apple (width, height ) {
-  this.width = width;
-  this.height = height;
+// function Apple (width, height ) {
+//   this.width = width;
+//   this.height = height;
  
-}
+// }
 
-Apple.prototype =  {
-  color : function () {return "red"},
-  score : function () {return `this is my score`},
+// Apple.prototype =  {
+//   color : function () {return "red"},
+//   score : function () {return `this is my score`},
+// }
+
+var classRegister = ["Osas","John", "Tristan"];
+
+// for (var i = 0; i < classRegister.length; i++){
+//   console.log(classRegister[i])
+// }
+
+for (var i in classRegister) {
+  console.log (classRegister[i])
 }
