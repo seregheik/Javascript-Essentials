@@ -4,24 +4,27 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Color Selector</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <select title="background" name="" id="background">
+    <select title="background" name="cssProperties" id="background">
         <option value="green">Green</option>
         <option value="yellow">Yellow</option>
         <option value="red">Red</option>
     </select>
-    <select title="width" name="" id="width">
+    <select title="width" name="cssProperties" id="width">
         <option value="w-100">100px</option>
         <option value="w-200">200px</option>
         <option value="w-300">300px</option>
     </select>
-    <select name="" id="height" title="height">
+    <select name="cssProperties" id="height" title="height">
         <option value="h-100">100px</option>
         <option value="h-200">200px</option>
         <option value="h-300">300px</option>
     </select>
     <button id="set">Set</button>
+    <br>
+    <div id="box"></div>
     <script src="./myapp.js"></script>
 </body>
 </html>
