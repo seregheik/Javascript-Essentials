@@ -1,7 +1,7 @@
 let colorwidget = document.getElementById('background');
 let widthwidget = document.getElementById('width');
 let heightwidget = document.getElementById('height');
-let optionsWidget = document.getElem
+let optionsWidget = document.getElementsByName('select')
 let setButton = document.getElementById('set');
 
 
